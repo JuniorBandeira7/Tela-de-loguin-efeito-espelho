@@ -1,4 +1,8 @@
-body {
+body{
+  margin: 0;
+  padding: 0;
+}
+main {
     font-size: 15pt;
     background-image: url(sea-6948569.jpg);
     background-size: cover;
